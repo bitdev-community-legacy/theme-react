@@ -5,4 +5,4 @@ Up until lately, whenever we’d think of changing themes in run-time, we’d im
 
 Today, thanks to ‘CSS custom properties’, a.k.a ‘CSS variables’, we shift the weight towards plain CSS. That is to say, there’s still a need for some JavaScript but as you’ll see, it plays a much minor role (as a side note — that should immediately tell you there’s a good chance of performance optimization).
 
-[Keep Reading](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
+## [Keep Reading](https://blog.bitsrc.io/theming-react-components-with-css-variables-ee52d1bb3d90)
